@@ -1,1 +1,1 @@
-# python
+# Small scripts in python
