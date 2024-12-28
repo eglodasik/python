@@ -1,3 +1,6 @@
+# The script reads an input video, selects a portion of it based on defined start and end times, 
+# and saves the trimmed segment as a new video file.
+
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
 # Path to the input video file
